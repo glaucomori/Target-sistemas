@@ -1,5 +1,3 @@
-# Programa para verificar se um número está presente na sequencia de Fibonacci
-
 numero = int(input("Informe um número: "))
 
 penultimo = 0
